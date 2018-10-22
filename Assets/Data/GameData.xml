@@ -1,0 +1,33 @@
+﻿<gamedata>
+  <store>
+    <Name>Hotel</Name>
+    <BaseStoreCost>1.54</BaseStoreCost>
+    <BaseStoreProfit>.55</BaseStoreProfit>
+    <StoreTimer>1</StoreTimer>
+    <Image>traditional_business</Image>
+    <StoreMultiplier>1.15</StoreMultiplier>
+    <StoreTimerDivision>10</StoreTimerDivision>
+    <StoreCount>0</StoreCount>
+
+  </store>
+  <store>
+    <Name>Bank</Name>
+    <BaseStoreCost>2.53</BaseStoreCost>
+    <BaseStoreProfit>1.2</BaseStoreProfit>
+    <StoreTimer>1.5</StoreTimer>
+    <Image>heritage_business</Image>
+    <StoreMultiplier>1.2</StoreMultiplier>
+    <StoreTimerDivision>5</StoreTimerDivision>
+    <StoreCount>0</StoreCount>
+  </store>
+  <store>
+    <Name>Factory</Name>
+    <BaseStoreCost>3.53</BaseStoreCost>
+    <BaseStoreProfit>2.2</BaseStoreProfit>
+    <StoreTimer>2</StoreTimer>
+    <Image>factory</Image>
+    <StoreMultiplier>1.05</StoreMultiplier>
+    <StoreTimerDivision>15</StoreTimerDivision>
+    <StoreCount>0</StoreCount>
+  </store>
+</gamedata>
